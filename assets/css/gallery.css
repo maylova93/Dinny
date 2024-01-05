@@ -1,0 +1,35 @@
+/* SECTION GALLERY */
+ 
+.section-gallery{
+    position: relative;
+    width: 100%;
+
+  }
+  #gallery_image {
+    width: 100%;
+  }
+  .section-gallery .gallery-container {
+    position: relative;
+    width: 100%;
+  }
+  
+  
+  
+
+
+
+  #nav_arrow_back {
+    /*  height: 200px; */
+    position: absolute;
+    bottom: 40%;
+    cursor: pointer;
+  }
+  #nav_arrow_forward {
+    /*  height: 200px; */
+    position: absolute;
+    transform: scaleX(-1);
+    bottom: 40%;
+    right: 0px;
+    cursor: pointer;
+  }
+  
